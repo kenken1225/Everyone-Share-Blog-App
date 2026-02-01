@@ -1,4 +1,4 @@
-# Everyone Share Yout Blog!
+# Everyone Share Your Blog!
 
 スタートアップや個人のアイデアや気づきを投稿・共有できるWebアプリケーションです。
 
