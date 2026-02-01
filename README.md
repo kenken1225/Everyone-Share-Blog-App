@@ -1,4 +1,4 @@
-# Startup Pitch Platform
+# Everyone Share Yout Blog!
 
 スタートアップや個人のアイデアや気づきを投稿・共有できるWebアプリケーションです。
 
